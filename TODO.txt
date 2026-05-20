@@ -1,0 +1,54 @@
+TODO: 
+
+Renderer:
+1. If texture color is black then returns an opach clear color; fix this
+Fix the fisheye effect
+
+2. Add colosion to wall sectors
+
+3. Add Portals
+
+4. Add Trees
+
+5. Add Moutions
+
+6. Buildings | Castles and Houses
+
+Gameplay:
+Add Entitys
+Add Player
+Add Weapons
+Add Armor
+Add Skill tree
+Add Player Classes
+Add Day and night cycle
+Create some playable levels
+
+Graphics:
+Doom/Quake-style first person FOV
+Pixalited
+
+Gameplay: Open World RPG | Games to look at:
+Diablo 1
+Skyrim
+Daggerfall
+Eternium
+
+Classes:
+Warrior
+Mage
+Rouge
+
+Game Mechanics:
+Skill and ability tree for each class
+Armor types and armor drops
+Weapons and weapon/armor upgrades
+Day and night cycle
+Option to sleep
+Interaction with all NPC
+Have NPC sleep at night
+Large open worlds
+
+Extras:
+Around 500MB for the game is the goal
+All within the console
